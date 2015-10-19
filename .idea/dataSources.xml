@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3303012200">
+    <data-source source="LOCAL" name="SQLite - people.db" uuid="beb916b4-fff2-4286-9035-ee4b2f2cd046">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\jk\PycharmProjects\HW8\people.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
